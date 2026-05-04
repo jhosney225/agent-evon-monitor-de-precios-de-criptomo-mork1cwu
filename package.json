@@ -1,0 +1,6 @@
+{
+  "name": "agent-evon-monitor-de-precios-de-criptomo-mork1cwu",
+  "version": "1.0.0",
+  "description": "Proyecto de Evon [Gen8]: monitor de precios de criptomonedas con alertas",
+  "main": "index.js"
+}
